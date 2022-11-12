@@ -1,4 +1,4 @@
-module github.com/go_darwin/lib/spinner
+module github.com/binRick/c_darwin/lib/spinner
 
 go 1.19
 
